@@ -17,10 +17,14 @@ const colors = [{
     name: 'Tart Orange'
   }]
 
-export default function ColorRender () {
+export default function ColorRenderer () {
     return (
-        <h2>
-            {colors.map() }
-        </h2>
+      <div>
+            {colors.map((color) => (
+              <Color 
+                key={color.hex} 
+                hex={color.hex} 
+                name={color.name}/>))}
+      </div>
     )
 }

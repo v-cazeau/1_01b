@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# React Code Challenge (LinkedIn Learning Course)
+
+ Use the Color component to render each item in the colors array on the page! 
+
+![sheetshot](./public/meta/readme.png)
+
+## Special Thanks
+- Special thanks to [Jiho Sohn](https://github.com/jsohndata) and [LinkedIn Learning](https://www.linkedin.com/learning/react-js-code-challenges) 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

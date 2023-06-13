@@ -1,10 +1,10 @@
-import ColorRender from './components/ColorRender';
+import ColorRenderer from './components/ColorRender';
 import './styles/App.css';
 
 function App() {
   return (
     <div className='App'>
-    <ColorRender />
+    <ColorRenderer />
     </div>
   );
 }
